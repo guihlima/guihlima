@@ -1,6 +1,5 @@
 ### Olá! Eu sou Guilherme Lima 👋
 
-- 🔭 No momento não estou trabalhando
 - 🌱 Atualmente estou aprendendo React e ReactNative
 - 📫 Contate-me no email: guihlimadev@gmail.com
 
