@@ -1,6 +1,6 @@
 ### Olá! Eu sou Guilherme Lima 👋
 
-- 🌱 Atualmente estou aprendendo React e ReactNative
+- 🌱 Atualmente estou trabalhando com desenvolvimento de sistemas web
 - 📫 Contate-me no email: guihlimadev@gmail.com
 
 <div align="center">
@@ -15,7 +15,7 @@
    <img align="center" alt="Guih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Guih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Guih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guih-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="GuihNode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-line-wordmark.svg">
 </div>
     
   ##
